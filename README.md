@@ -1,4 +1,4 @@
-# astrolus
+# Clyd
 
 A page template built with astro and tailwindcss using tailus blocks.
 
